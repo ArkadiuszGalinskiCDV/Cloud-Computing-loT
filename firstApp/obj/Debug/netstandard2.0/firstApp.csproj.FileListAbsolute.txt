@@ -1,0 +1,14 @@
+/Users/arkadiuszgalinski/Projects/Phoneword/firstApp/bin/Debug/netstandard2.0/firstApp.deps.json
+/Users/arkadiuszgalinski/Projects/Phoneword/firstApp/bin/Debug/netstandard2.0/firstApp.dll
+/Users/arkadiuszgalinski/Projects/Phoneword/firstApp/bin/Debug/netstandard2.0/ref/firstApp.dll
+/Users/arkadiuszgalinski/Projects/Phoneword/firstApp/bin/Debug/netstandard2.0/firstApp.pdb
+/Users/arkadiuszgalinski/Projects/Phoneword/firstApp/obj/Debug/netstandard2.0/firstApp.csprojAssemblyReference.cache
+/Users/arkadiuszgalinski/Projects/Phoneword/firstApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/arkadiuszgalinski/Projects/Phoneword/firstApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/arkadiuszgalinski/Projects/Phoneword/firstApp/obj/Debug/netstandard2.0/firstApp.AssemblyInfoInputs.cache
+/Users/arkadiuszgalinski/Projects/Phoneword/firstApp/obj/Debug/netstandard2.0/firstApp.AssemblyInfo.cs
+/Users/arkadiuszgalinski/Projects/Phoneword/firstApp/obj/Debug/netstandard2.0/firstApp.csproj.CoreCompileInputs.cache
+/Users/arkadiuszgalinski/Projects/Phoneword/firstApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/arkadiuszgalinski/Projects/Phoneword/firstApp/obj/Debug/netstandard2.0/firstApp.dll
+/Users/arkadiuszgalinski/Projects/Phoneword/firstApp/obj/Debug/netstandard2.0/ref/firstApp.dll
+/Users/arkadiuszgalinski/Projects/Phoneword/firstApp/obj/Debug/netstandard2.0/firstApp.pdb
