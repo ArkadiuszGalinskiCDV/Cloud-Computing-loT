@@ -1,0 +1,14 @@
+/Users/arkadiuszgalinski/Projects/XamarinEssentialsLab/XamarinEssentialsLab/obj/Debug/netstandard2.0/XamarinEssentialsLab.csproj.AssemblyReference.cache
+/Users/arkadiuszgalinski/Projects/XamarinEssentialsLab/XamarinEssentialsLab/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/arkadiuszgalinski/Projects/XamarinEssentialsLab/XamarinEssentialsLab/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/arkadiuszgalinski/Projects/XamarinEssentialsLab/XamarinEssentialsLab/obj/Debug/netstandard2.0/XamarinEssentialsLab.AssemblyInfoInputs.cache
+/Users/arkadiuszgalinski/Projects/XamarinEssentialsLab/XamarinEssentialsLab/obj/Debug/netstandard2.0/XamarinEssentialsLab.AssemblyInfo.cs
+/Users/arkadiuszgalinski/Projects/XamarinEssentialsLab/XamarinEssentialsLab/obj/Debug/netstandard2.0/XamarinEssentialsLab.csproj.CoreCompileInputs.cache
+/Users/arkadiuszgalinski/Projects/XamarinEssentialsLab/XamarinEssentialsLab/obj/Debug/netstandard2.0/XamarinEssentialsLab.dll
+/Users/arkadiuszgalinski/Projects/XamarinEssentialsLab/XamarinEssentialsLab/obj/Debug/netstandard2.0/ref/XamarinEssentialsLab.dll
+/Users/arkadiuszgalinski/Projects/XamarinEssentialsLab/XamarinEssentialsLab/obj/Debug/netstandard2.0/XamarinEssentialsLab.pdb
+/Users/arkadiuszgalinski/Projects/XamarinEssentialsLab/XamarinEssentialsLab/bin/Debug/netstandard2.0/XamarinEssentialsLab.deps.json
+/Users/arkadiuszgalinski/Projects/XamarinEssentialsLab/XamarinEssentialsLab/bin/Debug/netstandard2.0/XamarinEssentialsLab.dll
+/Users/arkadiuszgalinski/Projects/XamarinEssentialsLab/XamarinEssentialsLab/bin/Debug/netstandard2.0/ref/XamarinEssentialsLab.dll
+/Users/arkadiuszgalinski/Projects/XamarinEssentialsLab/XamarinEssentialsLab/bin/Debug/netstandard2.0/XamarinEssentialsLab.pdb
+/Users/arkadiuszgalinski/Projects/XamarinEssentialsLab/XamarinEssentialsLab/obj/Debug/netstandard2.0/XamlC.stamp
